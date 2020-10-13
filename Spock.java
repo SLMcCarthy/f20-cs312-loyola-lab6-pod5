@@ -5,7 +5,7 @@
  */
 
 
-public abstract  class Spock extends Choice
+public abstract class Spock extends Choice
 {
       
       public String beats(Choice x)
