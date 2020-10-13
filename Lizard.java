@@ -1,4 +1,4 @@
-/* Lizard class: holds a lizard object
+/* Lizard class: holds a lizard choice
  * CS312 Lab 6
  * @authors Shane McCarthy, Joseph Carnovale
  * @version 1.0 10/13/20
