@@ -6,6 +6,6 @@
 
 public abstract class Choice
 {
-	public abstract void beats(Choice x);
+	public abstract String beats(Choice x);
 
 }
